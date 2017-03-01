@@ -23,7 +23,7 @@
 			echo "Té";
 		else
 			echo "Café";
-		?><br>
+	?><br>
 	- Observaciones:
 	<?php if($_POST['obs'] != '') echo $_POST['obs'];?> <br>
 	</fieldset>
