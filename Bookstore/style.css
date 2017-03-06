@@ -1,0 +1,13 @@
+form{
+  background:#ffffff;
+  display:inline-block;
+}
+th{
+  background-color:#4ab1ff;
+}
+table, th, td {
+  border: 1px solid black;
+}
+tr{
+  background-color:#66CD00;
+}
